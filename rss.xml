@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The stuff we assume about the way things are]]></title>
+        <description><![CDATA[The stuff we assume about the way things are]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Aug 2016 05:59:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Immanent Frame]]></title>
+            <description><![CDATA[<article><h1>The Immanent Frame</h1><p>The following is excerpted from Nancy Levene's forthcoming book, Powers of Distinction: Religion and Modernity x Two.-Eds. In a recent piece in The New York Times' column The Stone, philosophers Jay L. Garfield and Bryan W. Van Norden lament the blindness of contemporary philosophy departments towards cultures outside the West.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7109be665128b9ad5b6faa9413142fe8/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F3a%2FJean-Baptiste_Camille_Corot_A_Rising_Path.jpg"></article>]]></description>
+            <link>http://blogs.ssrc.org/tif/2016/06/22/on-inclusion/</link>
+            <guid isPermaLink="false">57e661c7-62c8-4683-8c49-6fc30e4ffc09</guid>
+            <pubDate>Sat, 13 Aug 2016 05:59:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
