@@ -1,4 +1,3 @@
-layout_spectrum: 0.7653331176843494
 typography_spectrum: 0.8972263420000672
 color:
   brandStrength: 0.02939489926211536
@@ -11,4 +10,10 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.7653331176843494
+author:
+  name: John Shellard
+  email: john.shellard@gmail.com
+  url: johnshellard.net
 name: 'Toleration, Religion, and the State'
+title: The stuff we assume about the way things are
